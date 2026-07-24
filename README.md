@@ -38,10 +38,6 @@ Building and evaluating supervised learning models using **Scikit-Learn** & **Go
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 📧 **Email:** your.email@example.com
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/galih-kusuma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/galihkw/)  
 
