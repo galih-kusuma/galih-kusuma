@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Galih Kusuma Wiranata
-#### Web & AI Enthusiast
 
 <p align="center">
   <img src="./assets/typewriter-intro.svg" alt="Galih Kusuma Wiranata — Terminal Session" width="100%" />
