@@ -26,7 +26,7 @@ A passionate tech enthusiast who loves exploring the intersection of **Web Devel
 * Learning internal database flows, business logic, and web architecture implementation in an organizational environment.
 
 #### 🎧 Technical Support Intern — **Melsa ISP**
-* July 2022 – October 2022
+*July 2022 – October 2022*
 * Managed network troubleshooting, internet connectivity issues, and client technical support.
 * Handled hardware/software diagnostics, system configurations, and network infrastructure maintenance.
 ---
